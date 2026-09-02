@@ -19,6 +19,6 @@ I'am an Information System enthusiast with practical experience in implementing 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andh_jov/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovan-andhika-19356a2b6/)
 
 <!-- Contributions -->
-![](https://devimg.vercel.app/github/languages/JovanAndhika)
+![](https://devimg.vercel.app/github/languages/jasetyawan)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JovanAndhika&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasetyawan&theme=tokyonight)
