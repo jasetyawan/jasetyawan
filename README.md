@@ -1,4 +1,4 @@
-![jasetyawan](img/banner-profile.png)
+![jasetyawan](img/github-banner.png)
 
 ### 🔭 About Me
 I'am an Information System enthusiast with practical experience in implementing Odoo ERP and developing web applications using Laravel and PHP. I'm deeply passionate about the startup ecosystem and dedicated to solving real-world business problems through technology. My background includes proven participation in team-based IT projects, consistently delivering scalable web solutions.
