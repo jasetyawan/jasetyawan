@@ -11,9 +11,9 @@ I'am an Information System enthusiast with practical experience in implementing 
 [![My Skills](https://skillicons.dev/icons?i=laravel,mysql,java&theme=light)](https://skillicons.dev)
 
 ### Group projects:
-- Vibe music player: https://vibe.portfoliojov.my.id/
 - Battle of Minds 2024: https://battleofminds2024.portfoliojov.my.id/
-- GYB Catholic Church: https://parokigyb.or.id/
+- Vibe Music Player: https://vibe.portfoliojov.my.id/
+- Simple Online Delivery System: https://simpledelivery.portfoliojov.my.id/
 
 ### Let's Connect
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andh_jov/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovan-andhika-19356a2b6/)
