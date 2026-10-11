@@ -1,9 +1,8 @@
 ![jasetyawan](img/github-banner.png)
 
 ### 🔭 About Me
-I'am an Information System enthusiast with practical experience in implementing Odoo ERP and developing web applications using Laravel and PHP. I'm deeply passionate about the startup ecosystem and dedicated to solving real-world business problems through technology. My background includes proven participation in team-based IT projects, consistently delivering scalable web solutions.
+I'am an Information System enthusiast with practical experience in implementing functional Odoo ERP and developing web applications using Laravel and PHP. I'm deeply passionate about the startup ecosystem and dedicated to solving real-world business problems through technology. My background includes proven participation in team-based IT projects, consistently delivering scalable web solutions.
 - 📫 Feel free to reach me: jovsetyawan@gmail.com
-- ⚡ Fun fact: Everyday is a new challenge
 
 ### Learned language
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
